@@ -1,6 +1,5 @@
 # 💫 About Me:
-...building...
-
+I graduated from the Universidade Católica de Brasília in 2014. I consider myself an technology enthusiast.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marcos-b-lima/) 
